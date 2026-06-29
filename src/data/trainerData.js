@@ -4,31 +4,31 @@ const trainerData = {
     secondaryColor: "#8b5cf6",
   },
 
-  name: "Fitness Trainer",
+  name: "Charbel The Warrior",
   role: "Elite Fitness Coach",
-  brandName: "Fitness Trainer",
+  brandName: "Charbel Maalouf",
 
-  phone: "96171505994",
+  phone: "96171742862",
   email: "coach@fitcoach.com",
-  location: "Beirut, Lebanon",
+  location: "Zahle, Lebanon",
 
   whatsappMessage: "Hi I want to start training",
 
   socials: {
-    facebook: "https://facebook.com/",
-    instagram: "https://instagram.com/",
+    facebook: "https://www.facebook.com/charbel.maalouf.7",
+    instagram: "https://www.instagram.com/charbelthewarrior/",
     linkedin: "https://linkedin.com/",
   },
 
   images: {
     profile:
-      "https://images.unsplash.com/photo-1567013127542-490d757e51fc?q=80&w=1200",
+      "https://scontent.fbey15-1.fna.fbcdn.net/v/t39.30808-6/654692323_26341740742124578_3321615207846857178_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx2048x2048&ctp=s2048x2048&_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=sSdZAcsCmrEQ7kNvwGBuLUz&_nc_oc=AdoHy31vyeAqwvfWWwrLwLmpxSY-VfQY7-b2-pABd2Lk9GcLXheoNV33UMhiHBa2hEI&_nc_zt=23&_nc_ht=scontent.fbey15-1.fna&_nc_gid=si6aXLeZSI-zEKhppX-vew&_nc_ss=7b2a8&oh=00_Af8K2g_jbTO227d0JfifQdPHsT6ysEgMy2dwPiFUt8_B-A&oe=6A4893CC",
 
     heroBackground:
-      "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=2070",
+      "https://scontent.fbey15-1.fna.fbcdn.net/v/t51.82787-15/727268094_18592601683040411_7655118983414139417_n.jpg?stp=dst-jpegr_tt6&cstp=mx2268x3024&ctp=s2048x2048&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2mvw2fbZTiYQ7kNvwGfC52Y&_nc_oc=AdrYE-Z2fhPelqWPbva-eZyfXecLkm5W8darkNV86d1bMLyJKDlXmjnfiL6FKAk2YNk&_nc_zt=23&se=-1&_nc_ht=scontent.fbey15-1.fna&_nc_gid=QKNFqlHWNpFfiKWM-yjw3g&_nc_ss=7b2a8&oh=00_Af_OEuPEUNU7tzZ_lcIUkC3wg7AXNLNf16st_LUkxNF5nA&oe=6A48AD6A",
 
     about:
-      "https://images.unsplash.com/photo-1567013127542-490d757e51fc?q=80&w=1200",
+      "https://scontent.fbey15-1.fna.fbcdn.net/v/t51.82787-15/670966619_18574203220040411_1809361142716164439_n.jpg?stp=dst-jpegr_tt6&cstp=mx1440x1920&ctp=s1440x1920&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hfJqo9nEs_8Q7kNvwG_TqvU&_nc_oc=AdqV9uuJ4WLf4GEIkDTGeAnWB64qIYPnQXW_fbXOH3p4CujRB_DQLcsid-AZzB6Ksk0&_nc_zt=23&se=-1&_nc_ht=scontent.fbey15-1.fna&_nc_gid=aDmgKKXphxrASdoWgYG00A&_nc_ss=7b2a8&oh=00_Af8AaxV82N9ANnXpbD7mDAbiGNxmwsHQebggfpo0x1TyxA&oe=6A48B381",
   },
 
   hero: {
@@ -52,7 +52,7 @@ const trainerData = {
     headingStart: "Build The Strongest",
     headingHighlight: "Version Of Yourself",
     paragraphs: [
-      "I'm Fitness trainer, a certified fitness coach with over 8 years of experience helping people transform their physique, confidence, and mindset.",
+      "I'm Charbel Maalouf, a certified fitness coach with over 8 years of experience helping people transform their physique, confidence, and mindset.",
       "My coaching philosophy combines science-based training, nutrition strategies, and elite-level accountability to help clients achieve long-term sustainable results.",
     ],
     stats: [
