@@ -30,7 +30,7 @@ function Home() {
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Fitness-trainer-demo">
       <ScrollToTop />
       <BackgroundEffects />
 
